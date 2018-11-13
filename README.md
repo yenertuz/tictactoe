@@ -1,4 +1,4 @@
-# tictactoe
+# tictactoe_next_move
 
 **Goal**: to create an unbeatable tic tac toe player
 
