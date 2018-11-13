@@ -2,6 +2,8 @@
 
 **Goal**: to create an unbeatable tic tac toe player
 
+**Keyword:** decision-making
+
 3 subgoals (parts): 
 
 1) Generate all possible table instances and moves (there is fewer than 2^9)
