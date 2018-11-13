@@ -2,7 +2,7 @@
 
 **Goal**: to create an unbeatable tic tac toe player
 
-**Keyworda:** decision-making
+**Keywords:** decision-making
 
 3 subgoals (parts): 
 
