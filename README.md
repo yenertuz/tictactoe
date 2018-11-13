@@ -18,4 +18,6 @@
 
 ^ performance important
 
-Example: ./tictactoe "XX.OO...." "X" should return "2" (which stands for tile with the index 2, which means row 1 column 3)
+Example: ./tictactoe "xx.oo...." "x" should return "2" (which stands for tile with the index 2, which means row 1 column 3)
+
+argv1 for ./tictactoe will be a **tictactoe string**, which is a tictactoe board with empty tiles represented as "." and no newlines or any characters other than "x" and "o"
