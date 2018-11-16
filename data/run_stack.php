@@ -14,7 +14,8 @@ function	get_stack_string()
 function	process_focus($focus)
 {
 	$move_count = substr_count($focus, ".");
-	echo "{$move_count} POSSIBLE MOVES";
+	echo "{$move_count} POSSIBLE MOVES\n";
+	
 }
 
 function	rewrite_stack($focus)
