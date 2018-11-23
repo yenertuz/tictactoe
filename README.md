@@ -1,8 +1,7 @@
 ##### Header
 
-**Author:** Yener Tuz
-
-**Creation date:** 11/22/2018
+**Author:** Yener Tuz  
+**Creation date:** 11/22/2018  
 
 ##### Intro
 
@@ -25,8 +24,6 @@ Simply start from the first row, write the three characters, replacing empty til
 
 _Example:_
 
-`XXO`
-
-`..O`
-
+`XXO`  
+`..O`  
 `X..` => `xxo..ox..`
