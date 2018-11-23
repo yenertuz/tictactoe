@@ -25,5 +25,7 @@ Simply start from the first row, write the three characters, replacing empty til
 _Example:_
 
 `XXO`
+
 `..O`
+
 `X..` => `xxo..ox..`
