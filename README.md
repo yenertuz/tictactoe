@@ -20,10 +20,13 @@
 
 ##### How to convert a board into a board string?
 
-Simply start from the first row, write the three characters, replacing empty tiles with '.' 
+Simply start from the first row, write the three characters, replacing empty tiles with '.'
+Everything should be lowercase
 
 _Example:_
 
 `XXO`  
 `..O`  
 `X..` => `xxo..ox..`
+
+* Non-supported usage is undefined
