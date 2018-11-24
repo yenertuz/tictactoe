@@ -15,7 +15,7 @@
 
 *Example:*
 
-`$ ./tnm "xx...o..o" "x"`
+`$ ./tnm "xx...o..o" "x"`  
 `2`
 
 ##### How to convert a board into a board string?
